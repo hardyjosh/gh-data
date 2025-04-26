@@ -22,8 +22,8 @@ A command-line tool to fetch and analyze pull request data from GitHub repositor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/github-repo-data-fetcher.git
-   cd github-repo-data-fetcher
+   git clone https://github.com/hardyjosh/gh-data.git
+   cd gh-data
    ```
 
 2. Install dependencies:
